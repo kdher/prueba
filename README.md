@@ -31,11 +31,11 @@ THEN I can save my initials and my score
 
 1. The photo below is what the begin-quiz section should look like when completed
 
-![This is a screenshot of the begin-quiz section of this code quiz.](./assets/images/uno.jpg)
+![This is a screenshot of the begin-quiz section of this code quiz.](uno.jpg)
 
 2. The photo below is what a quiz-question section should look like when completed
 
-![This is a screenshot of a quiz-question section in this code quiz.](./assets/images/dos.jpg)
+![This is a screenshot of a quiz-question section in this code quiz.](/assets/images/dos.jpg)
 
 3. The photo below is what the save-initials section should look like when completed
 
